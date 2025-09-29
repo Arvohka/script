@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="100%" height="100%" fill="#0B0B0D"/>
+  <!-- App bar -->
+  <rect x="0" y="0" width="1920" height="96" fill="#141418"/>
+  <text x="24" y="64" font-family="Inter,Roboto,Arial" font-size="36" fill="#FFFFFF">Home · Live Now · Starting Soon</text>
+  <!-- Left rail -->
+  <rect x="0" y="96" width="240" height="984" fill="#141418"/>
+  <text x="24" y="160" font-family="Inter,Roboto,Arial" font-size="28" fill="#FFFFFF">Home</text>
+  <text x="24" y="200" font-family="Inter,Roboto,Arial" font-size="28" fill="#B8B8BE">Explore</text>
+  <text x="24" y="240" font-family="Inter,Roboto,Arial" font-size="28" fill="#B8B8BE">Sports</text>
+  <text x="24" y="280" font-family="Inter,Roboto,Arial" font-size="28" fill="#B8B8BE">Settings</text>
+  <!-- Live Now row -->
+  <text x="264" y="140" font-family="Inter,Roboto,Arial" font-size="32" fill="#FFFFFF">Live Now</text>
+  <rect x="264" y="168" width="432" height="264" fill="#1A1A1F"/>
+  <rect x="720" y="168" width="432" height="264" fill="#1A1A1F"/>
+  <rect x="1176" y="168" width="432" height="264" fill="#1A1A1F"/>
+  <text x="288" y="308" font-family="Inter,Roboto,Arial" font-size="26" fill="#FFFFFF">LIVE Match 1</text>
+  <!-- Starting Soon row -->
+  <text x="264" y="480" font-family="Inter,Roboto,Arial" font-size="32" fill="#FFFFFF">Starting Soon</text>
+  <rect x="264" y="508" width="432" height="264" fill="#1A1A1F"/>
+  <rect x="720" y="508" width="432" height="264" fill="#1A1A1F"/>
+  <rect x="1176" y="508" width="432" height="264" fill="#1A1A1F"/>
+  <text x="288" y="648" font-family="Inter,Roboto,Arial" font-size="26" fill="#FFFFFF">Soon 1</text>
+</svg>

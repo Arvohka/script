@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="100%" height="100%" fill="#0B0B0D"/>
+  <rect x="0" y="0" width="1920" height="1080" fill="#1A1A1F"/>
+  <!-- Controls bar -->
+  <rect x="0" y="960" width="1920" height="120" fill="#000000" opacity="0.8"/>
+  <text x="24" y="1032" font-family="Inter,Roboto,Arial" font-size="28" fill="#FFFFFF">Play | Pause | Live | Quality | Audio</text>
+</svg>
