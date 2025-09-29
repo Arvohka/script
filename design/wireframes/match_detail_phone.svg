@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="2400" viewBox="0 0 1080 2400">
+  <rect width="100%" height="100%" fill="#0B0B0D"/>
+  <rect x="0" y="0" width="1080" height="144" fill="#141418"/>
+  <text x="24" y="88" font-family="Inter,Roboto,Arial" font-size="40" fill="#FFFFFF">Match Detail</text>
+  <rect x="24" y="168" width="1032" height="336" fill="#1A1A1F"/>
+  <text x="48" y="312" font-family="Inter,Roboto,Arial" font-size="30" fill="#FFFFFF">Team A vs Team B · 19:00</text>
+  <rect x="24" y="528" width="1032" height="144" fill="#1A1A1F"/>
+  <text x="48" y="620" font-family="Inter,Roboto,Arial" font-size="30" fill="#FFFFFF">Subscribe (5m alert)</text>
+  <rect x="24" y="696" width="1032" height="360" fill="#1A1A1F"/>
+  <text x="48" y="880" font-family="Inter,Roboto,Arial" font-size="28" fill="#FFFFFF">Stats / Lineups</text>
+  <rect x="24" y="1080" width="1032" height="600" fill="#1A1A1F"/>
+  <text x="48" y="1160" font-family="Inter,Roboto,Arial" font-size="28" fill="#FFFFFF">Related News</text>
+</svg>
